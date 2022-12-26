@@ -6,6 +6,6 @@ A Purple-Blue minimal resourcepack, only covering the most important ui-elements
 ![](assets/minecraft/textures/gui/container/crafting_table.png)
 
 # Usage and License
-Every file has been modified and is licensed by __LICENSE__ 
+Every file has been modified and is licensed by **[Creative Commons Zero v1.0 Universal](LICENSE.md)** 
 
-This Resourcepack is free for **Non-Commercial use**. Modifying requires the other party to **Share Alike**
+This Resourcepack is free for use.
